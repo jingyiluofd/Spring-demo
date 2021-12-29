@@ -25,15 +25,15 @@ public class DeleteDemo {
 		
 		try {
 			// create the objects
-			/*
-			Instructor tempInstructor = 
+			
+			Instructor tempInstructor1 = 
 					new Instructor("Chad", "Dardy", "darby@luv2code.com");
 			
-			InstructorDetail tempInstructorDetail =
+			InstructorDetail tempInstructorDetail1 =
 					new InstructorDetail(
 							"http://www.luv2code.com/youtube",
 							"Luv 2 code!!!");
-			*/
+			
 			
 			Instructor tempInstructor = 
 					new Instructor("Madhu", "Patel", "Madhu@luv2code.com");

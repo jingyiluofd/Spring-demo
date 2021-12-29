@@ -38,6 +38,8 @@ public class CreateCoursesDemo {
 			// create some courses
 			Course tempCourse1 = new Course("Air Guitar - the ultimate Guide");
 			Course tempCourse2 = new Course("The Pinball Masterclass");
+			Course tempCourse3 = new Course("data structure");
+			Course tempCourse4 = new Course("operating systems");
 			
 			// add courses to instructor
 			tempInstructor.add(tempCourse1);
